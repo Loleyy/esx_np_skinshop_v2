@@ -1,4 +1,4 @@
-## ESX_NP_SKINSHOP
+## ESX_NP_SKINSHOP_V2
 
 # Warning ! 
 # Ne pas renommer le nom de la ressource sinon elle ne fonctionnera plus !
