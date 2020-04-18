@@ -1,22 +1,20 @@
 ## ESX_NP_SKINSHOP
 
-# VERY IMPORTANT
-# DONT RENAME THE SCRIPT FOLDER UNLESS YOU KNOW WHAT YOU ARE DOING
+# Warning ! 
+# Ne pas renommer le nom de la ressource sinon elle ne fonctionnera plus !
 
-# ABOUT THIS VERSION
 
-This v2 version have all the images in a local way, no more links to external websites and now there is support for esx_accessories, just use my edit of that script
+Cette version v2 a toutes les images de manière locale, plus de liens vers des sites Web externes et maintenant il y a un support pour esx_accessories, utilisez simplement ma modification de ce script
 
 - [esx_newaccessories](https://github.com/GMA950/esx_newaccessories)
 
 
-This is a merge between the original np_skinshop and esx_clotheshop, its working without issues and includes an outfit menu
+Ceci est une fusion entre le np_skinshop original et esx_clotheshop, son fonctionnement sans problèmes et comprend un menu de tenue
 
 # VIDEO & Screenshots
 [![print1](https://i.imgur.com/VD45jR4.jpg)](https://i.imgur.com/VD45jR4.jpg)
 [![print1](https://i.imgur.com/e35mllP.jpg)](https://i.imgur.com/e35mllP.jpg)
 [![print1](https://i.imgur.com/ps6LRKk.jpg)](https://i.imgur.com/ps6LRKk.jpg)
-https://www.youtube.com/watch?v=Yijf-5blIXU
 
 # REQUERIMENTS
 
@@ -25,19 +23,6 @@ https://www.youtube.com/watch?v=Yijf-5blIXU
 -   esx_datastore
 -   esx_property
 
-# YOU CAN EDIT, REUPLOAD AND DO EVERYTHING YOU WANT WITH THIS
+# VOUS POUVEZ MODIFIER, RÉUTILISER ET FAIRE TOUT CE QUE VOUS VOULEZ AVEC CELA
 
-Comming soon a version of this script for esx_accessories (give me some time)
-
-# ALL CREDTIS TO VHall1 for creating the UI interface and original script
-
-# ORIGINAL DESCRIPTION
-
-
-https://github.com/VHall1/np_skinshop
-
-It's a simple NUI that allows people to browse all game clothes and change theirs by clicking on the images. It also detects whether the player is Male or Female and assigns the correct images.
-
-Demonstration: https://streamable.com/ne6wn (original np_skinshop)
-
-[![print1](https://imgur.com/zUnh5Gj.png)](https://imgur.com/zUnh5Gj.png)
+# TOUS LES CRÉDITS À VHall1 pour créer l'interface utilisateur et le script d'origine
