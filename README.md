@@ -23,6 +23,4 @@ Ceci est une fusion entre le np_skinshop original et esx_clotheshop, son fonctio
 -   esx_datastore
 -   esx_property
 
-# VOUS POUVEZ MODIFIER, RÉUTILISER ET FAIRE TOUT CE QUE VOUS VOULEZ AVEC CELA
-
 # TOUS LES CRÉDITS À VHall1 pour créer l'interface utilisateur et le script d'origine
